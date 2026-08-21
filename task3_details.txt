@@ -1,2 +1,3 @@
 Working on Feature 1
 Working on Feature 2
+Working on Rebase 1
