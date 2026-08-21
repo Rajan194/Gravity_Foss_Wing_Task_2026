@@ -1,0 +1,6 @@
+Hi everyone, I am Ankit Pal from WB pursuing ECE at IIITA.
+I love to explore things and sleep.
+My technical interests lie in:
+- Open source contributions
+- Competitive coding
+- Web development(Backend)
