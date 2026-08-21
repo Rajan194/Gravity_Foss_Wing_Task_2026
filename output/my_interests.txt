@@ -1,0 +1,15 @@
+Hello everyone!
+
+My name is Parthav Mashru, my roll no is IIT2025144 and I am from Jamnagar, Gujarat. My Tech Parent is Varun Deshmukh sir.
+
+Regarding technical interests, apart from being a fun activity, I have developed a strong interest in AI/ML during my vacation. Since my school days, I have been having a great interest in Mathematics, and I found the mathematical and proof-based aspects of AI/ML quite interesting.
+
+Moreover, I recently started learning Competitive Programming, and I have found a lot of enjoyment in solving and thinking about various algorithms and approaches to specific problems.
+
+Also, I think the Open Source Contribution to be very challenging and very exciting, though I have never done it. Because for that you need to know one development skill for which I am working currently.
+
+Finally, I find the process of building projects around real-world problems interesting and fulfilling. As a result, I have been trying to learn web development skills to eventually build my own projects. So, currently, my primary areas of interests include AI/ML, Competitive Programming, and building real-world projects.
+I like to learn more in various fields and I am looing furthur to explore more in these areas as well as the other areas.
+
+
+"This is the new line that is being added."
