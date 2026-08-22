@@ -1,0 +1,4 @@
+Hello, my name is Avaneesh Verma.
+I am an engineering student studying  in IIITA.
+My technical interests include C++, Git, web development.
+I am currently in second year.
